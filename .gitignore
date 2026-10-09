@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Data files
+/data/TWOSIDES.csv.gz
+/data/cache/
+
+# Experiment outputs (summaries go to results/, which is committed)
+/experiments/output/
+
+# The deployed model in checkpoints/ is committed (~3 MB). Comparison models
+# live in experiments/output/checkpoints/ (ignored above).
+/checkpoints_*/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
