@@ -4,8 +4,8 @@
 
 Built by two of us as a team project:
 
-- **Jayant** ([@Jayant-ksharma1](https://github.com/Jayant-ksharma1)): RL component, <other parts you did>
-- **Aditya Madhu** ([@adityam2905](https://github.com/adityam2905)): <parts he did, e.g. GAT model, Streamlit app>
+- **Jayant** ([@Jayant-ksharma1](https://github.com/Jayant-ksharma1)):
+- **Aditya Madhu** ([@adityam2905](https://github.com/adityam2905))
 
 Original repository: [adityam2905/molecusense-ddip](https://github.com/adityam2905/molecusense-ddip)
 
